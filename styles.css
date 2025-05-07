@@ -40,4 +40,9 @@ body {
     margin-top: 20px;
     cursor: pointer;
   }
-  
+  article,
+section#about {
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
